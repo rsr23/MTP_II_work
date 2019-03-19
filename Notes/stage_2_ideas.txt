@@ -1,0 +1,32 @@
+35 papers on "mammogram" in arxiv.org during (Feb 2016 - Dec 2018).
+
+paper 1:
+  Multiview CNN with Multi-task Learning (MTL).
+  MTL enables the CNN to learn the radiological assessments known to be associated with cancer, such as breast density,
+  conspicuity, suspicion, etc., in addition to learning the primary task of cancer diagnosis.
+  
+  Triage Network: Deciding order of treatments.
+  
+  MAMMO reduced the number of radiologist readings by 42.8%.
+--------------------------------------------------------------
+paper 2:
+Hybrid Deep Supervision.
+
+  whole-mammogram classification and segmentation
+  deep U-Net with residual connections.
+  novel hybrid deep supervision (HDS) scheme for end-to-end multi-task learning.
+--------------------------------------------------------------
+paper 3:
+Dual View Mass Correspondence.
+
+  a deep learning, patch-based Siamese network for lesion matching in dual-view mammography.
+--------------------------------------------------------------
+My Ideas to be incorporated:
+  
+  Have selected 12 papers to read and implement as is.
+  And to implement the below possible improvements.
+  ----------------------------------
+  Learning rate modulation/scheduling.
+  Transfer learning, finetuning.
+  Multi-view combining.(CC/MLO).
+  Dual view correspondance.
