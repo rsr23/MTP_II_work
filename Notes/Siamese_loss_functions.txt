@@ -1,0 +1,4 @@
+1. Contrastive losss : it is a Distance-based Loss function 
+(as opposed to prediction error-based Loss functions like Logistic loss or Hinge loss used in Classification).
+
+2. Like any distance-based loss, it tries to ensure that semantically similar examples are embedded close together. It is calculated on Pairs (other popular distance-based Loss functions are Triplet & Centre Loss, calculated on Triplets and Pointwise respectively)
